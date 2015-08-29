@@ -1,0 +1,7 @@
+syntax: glob
+bin
+obj
+*.suo
+native
+syntax: regexp
+packages/.*[0-9].*

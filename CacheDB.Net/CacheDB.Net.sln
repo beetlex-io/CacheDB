@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheDB.Net", "CacheDB.Net\CacheDB.Net.csproj", "{650F51A1-7494-4A6D-AE1F-B73B45855E85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheDB.Net.UnitTest", "CacheDB.Net.UnitTest\CacheDB.Net.UnitTest.csproj", "{F057AEDF-CB5C-45C2-9B25-FE4E8A3A168E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheDB.Net.TestConsole", "CacheDB.Net.TestConsole\CacheDB.Net.TestConsole.csproj", "{9BFAC85A-2C52-429A-A7BD-0BF3239CB2F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheDB.Net.MsgpacketFormater", "CacheDB.Net.MsgpacketFormater\CacheDB.Net.MsgpacketFormater.csproj", "{E679496E-3817-45E3-9CF7-41BC7E5EE91C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{650F51A1-7494-4A6D-AE1F-B73B45855E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{650F51A1-7494-4A6D-AE1F-B73B45855E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{650F51A1-7494-4A6D-AE1F-B73B45855E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{650F51A1-7494-4A6D-AE1F-B73B45855E85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F057AEDF-CB5C-45C2-9B25-FE4E8A3A168E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F057AEDF-CB5C-45C2-9B25-FE4E8A3A168E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F057AEDF-CB5C-45C2-9B25-FE4E8A3A168E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F057AEDF-CB5C-45C2-9B25-FE4E8A3A168E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BFAC85A-2C52-429A-A7BD-0BF3239CB2F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BFAC85A-2C52-429A-A7BD-0BF3239CB2F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BFAC85A-2C52-429A-A7BD-0BF3239CB2F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BFAC85A-2C52-429A-A7BD-0BF3239CB2F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E679496E-3817-45E3-9CF7-41BC7E5EE91C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E679496E-3817-45E3-9CF7-41BC7E5EE91C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E679496E-3817-45E3-9CF7-41BC7E5EE91C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E679496E-3817-45E3-9CF7-41BC7E5EE91C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

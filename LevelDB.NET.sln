@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelDB.NET", "LevelDB.NET\LevelDB.NET.csproj", "{C8F8B318-15FE-4501-BD0C-ABC71D54BB6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelDB.Tests", "LevelDB.Tests\LevelDB.Tests.csproj", "{D57BEAFB-3E3A-41C1-B8A5-ECFC2B7CA24C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelDB.Test.Console", "LevelDB.Test.Console\LevelDB.Test.Console.csproj", "{8D75EC95-16D8-40C9-BCAB-880CBC731B48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8F8B318-15FE-4501-BD0C-ABC71D54BB6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8F8B318-15FE-4501-BD0C-ABC71D54BB6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8F8B318-15FE-4501-BD0C-ABC71D54BB6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8F8B318-15FE-4501-BD0C-ABC71D54BB6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D57BEAFB-3E3A-41C1-B8A5-ECFC2B7CA24C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D57BEAFB-3E3A-41C1-B8A5-ECFC2B7CA24C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D57BEAFB-3E3A-41C1-B8A5-ECFC2B7CA24C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D57BEAFB-3E3A-41C1-B8A5-ECFC2B7CA24C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D75EC95-16D8-40C9-BCAB-880CBC731B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D75EC95-16D8-40C9-BCAB-880CBC731B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D75EC95-16D8-40C9-BCAB-880CBC731B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D75EC95-16D8-40C9-BCAB-880CBC731B48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
